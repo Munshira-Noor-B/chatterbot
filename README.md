@@ -9,10 +9,10 @@ INSTALLATION:use "pip install chatterbot==0.8.6" command to install the chatterb
 
 #while executing the program check for the following:
 if you get a EOL error(end of line error):
-   ---check if the quotes has been ended correctly
-   ---check brackets
-   ---use forward slashes instead of back slashes in location addresses
-   ---make sure that you have given at the end of the path you provided
+   ---check if the quotes has been ended correctly.
+   ---check brackets.
+   ---use forward slashes instead of back slashes in location addresses.
+   ---make sure that you have given at the end of the path you provided.
    ---dont save the file names same as those present in the chatterbot libraries(ex:chatterbot) since it affects the other existing files.
 
 initially chatterbot have no knowlegde of how to communicate.each time a user enters any message, the libraries saves the text that user 
